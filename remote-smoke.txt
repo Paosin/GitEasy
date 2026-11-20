@@ -1,1 +1,1 @@
-GitEasy remote smoke 1
+GitEasy remote smoke 2
